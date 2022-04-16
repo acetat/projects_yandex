@@ -1,5 +1,5 @@
 #datasets are not included
-*.csv
+**.csv
 
 # checkpoints are not included
-*checkpoint&.*
+**.ipynb_checkpoints/
