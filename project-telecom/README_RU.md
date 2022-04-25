@@ -1,26 +1,20 @@
-# Описание проекта: Определение выгодного тарифа для телеком компании
+# Determination of a profitable plan for a telecom company
 
-## Данные
+#### Task: 
+- Build Machine Learning model for the classification problem, which finds a suitable tariff
 
-В наличии были данные о использовании сотовых услуг клиентами оператора за один год:
-- Совершенные звонки
-- Отправленные SMS
-- Объем каждой интернет-сессии
-- Информация о пользователях (город, возраст, тариф) и условия тарифов
+#### Description:
+- The mobile operator found out: many customers use archived rates. A preliminary analysis of the use of tariffs on a sample of customers was carried out, the behavior of customers when using the operator's services was analyzed and the optimal sets of services for users were recommended. 
+- Hypotheses about the difference in revenue of subscribers of different tariffs and differences in the revenue of subscribers from Moscow and other regions. A profitable tariff plan has been identified for adjusting the advertising budget.
 
-## Задача
+#### Status:
+- Finished
 
-На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. Дать советы бизнесу.
+#### Scope of Activities: 
+- Telecom, Advertising platforms, IT company, Startups, Business services [b2b]
 
-## Результаты
+#### Used Libraries:
+- Python, Pandas, Matplotlib, numpy, SciPy
 
-- Распределения продолжительности звонков и интернет-трафика напоминают нормальные. Для всех трех параметров можно сказать, что в случае ultra-клиентов распределение более размазано (стандартное отклонение выше): средний расход минут, сообщений и гигабайтов больше.
-- В среднем все пользователи укладываются в выделяемое количество минут и сообщений. Однако пользователи smart близки к лимиту (среднее 418 мин близко к месячному лимиту 500 мин), в то время как пользователи ultra тратя только 500 мин из 3000. Количество сообщений у обеих групп очень мало (в среднем 3 и 4 сообщения в месяц для пользователей smart и ultra).
-- Проверены гипотезы для уровня значимости 0.01:
-	- средняя выручка пользователей тарифов «Ультра» и «Смарт» различаются. Нулевая гипотеза (средние значения выручки по пользователям разных тарифов равны) отвергается.
-	- средняя выручка пользователей из Москвы отличается от выручки пользователей из других регионов. Нулевую гипотезу (средние значения выручки по пользователям из разных облластей равны) отвергнуть нельзя. Средние для Москвы и остальных городов могут быть равны.
-- На основании анализа данных приведены советы для увеличения выручки.
-
-## Используемые библиотеки
-
-*pandas, Matplotlib, numpy, SciPy*
+#### tags:
+- data processing, histogram, boxplot, statistical test, Student's test, analyst, analyst, data analyst, data analyst, Scikit-Learn
