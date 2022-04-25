@@ -1,12 +1,13 @@
 # projects_yandex
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
+Repository containing data science projects completed by me during the training courses at Praktikum by Yandex.
+Presented in the form of iPython Notebooks and readme markdown files.
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project | Description | Used libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Определение выгодного тарифа для телеком компании](project-telecom) | Анализ поведения клиентов и поиск оптимального тарифа| *pandas, Matplotlib, numpy, SciPy* |
-| [Aнализ рынка недвижимости в Санкт-Петербурге](project-real_estate) | Определение рыночной стоимость объектов недвижимости и типичные параметры квартир | *pandas, Matplotlib, numpy* |
-| [Подготовка прототипа модели для металлообрабатывающего предприятия](project-gold_ore) |Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды | *pandas, Matplotlib, numpy, SciPy, CatBoost, Sklearn* |
-| [Выбор региона для разработки новых нефтяных месторождений](project-geo) |Построение модели машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков. | *pandas, Matplotlib, numpy, SciPy, Sklearn* |
-| [Изучение закономерностей, определяющих успешность игр](project-games) |Выявление закономерностей, определяющие успешность игры и дать предсказания на следующий год | *pandas, Matplotlib, numpy, SciPy* |
-| [Отток клиентов банка](project-bank_clients) | Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов)| *pandas, Matplotlib, numpy, SciPy* |
+| [Determination of a profitable plan for a telecom company](project-telecom) | Analysis of customer behavior and search for the optimal plan | *pandas, Matplotlib, numpy, SciPy* |
+| [Analysis of the real estate market in St. Petersburg](project-real_estate) | Determination of the market value of real estate objects and typical parameters of apartments | *pandas, matplotlib, numpy* |
+| [Prototype ML model for a metalworking enterprise](project-gold_ore) |Developing a model that predicts the recovery rate of gold from gold ore | *pandas, Matplotlib, numpy, SciPy, CatBoost, Sklearn* |
+| [Selecting a region for developing new oil fields](project-geo) |Build a machine learning model that will help determine the region where production will bring the most profit with the least risk of loss. | *pandas, Matplotlib, numpy, SciPy, Sklearn* |
+| [Patterns that determine the success of games](project-games) |Identification of patterns that determine the success of the game and give predictions for the next year | *pandas, Matplotlib, numpy, SciPy* |
+| [Bank client churn](project-bank_clients) | Analysis of the outflow of customers from the bank for the choice of strategy (retaining old customers or attracting new customers) | *pandas, Matplotlib, numpy, SciPy* |
