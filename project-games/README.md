@@ -1,20 +1,19 @@
-# Описание проекта: Изучение закономерностей, определяющих успешность игр
+# Study of the patterns that determine the success of video games
 
-## Данные
+#### Task: 
+- Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
 
-В наличии были данные о продажах игр, оценки пользователей и экспертов, жанры и платформы за 1998-2016 года в Северной Амреике, Европе и Японии. 
+#### Description:
+- For a video game store with worldwide sales, it is to analyze popular games and platforms in order to plan further sales. Historical game sales data, user and expert ratings, genres and platforms are available from public sources. The parameters that determine the success of the game in different regions of the world are revealed. Potentially popular product identified and advertising campaigns planned. The current period for analysis has been selected. Portraits of users of each region were compiled and hypotheses tested.
 
-## Задача
+#### Status:
+- Finished
 
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры и дать предсказания на 2017 год
+#### Scope of Activities: 
+- Gamedev, Online Stores, Digital Agencies / Marketing, Business Services [b2b] (outsourcing consulting audit), Startups, IT Company
 
-## Результаты
+#### Used Libraries:
+- Python, Pandas, numpy, Matplotlib, data preprocessing, exploratory data analysis, descriptive statistics, statistical hypothesis testing, Seaborn, SciPy
 
-- Выявлены параметры, определяющие успешность игры в разных регионах мира. 
-- Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона, показано, как местоположение и возраст пользователя влияют на продежи игр, установлены наибоолее попялрные платформы в каждом регионе.  
-- Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые;
-средние пользовательские рейтинги жанров Action и Sports разные. 
-- Даны рекомендации бизнесу по планированию продаж на следующий год.
-
-## Используемые библиотеки
-*pandas, Matplotlib, numpy, SciPy*
+#### tags:
+- data processing, histogram, boxplot, statistical test, Student's test, piechart, game analyst, product analyst
