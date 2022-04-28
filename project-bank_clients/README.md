@@ -1,17 +1,19 @@
-# Описание проекта: Отток клиентов банка
+# Bank Churn Prediction
 
-## Данные
+#### Task: 
+- Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)
 
-В наличии были данные о клиентах (пол, местоположение, уровень зарплаты итд)
+#### Description:
+- Based on customer data (gender, location, salary level, etc.), the probability of the client leaving the bank in the near future was predicted. A model with an extremely large value of the F1-measure was built with subsequent verification on a test sample. The metric has been brought to 0.64. Additionally measured AUC-ROC, correlated with F1-measure.
 
-## Задача
+#### Status:
+- Finished
 
-Анализ оттока клиентов из банка для выбора стратегии (удержание старых клиентов или привлечение новых клиентов).
+#### Scope of Activities: 
+- Digital-agencies / Marketing, Banking sector, Business services [b2b], IT company, Startups
 
-## Результаты 
-- Спрогнозирована вероятность ухода клиента из банка в ближайшее время.
-- Построена модель с предельно большим значением F1-меры с последующей проверкой на тестовой выборке. Метрика доведена до 0.64. 
-- Дополнительно измерен AUC-ROC, соотнесен с F1-мерой.
+#### Used Libraries:
+- Pandas, Matplotlib, Seaborn, numpy, sklearn, math, Machine Learning
 
-## Используемые библиотеки
-*pandas, Matplotlib, numpy, SciPy*
+#### tags:
+- data science, machine learning, ML, Python, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, sci-py, Research, Supervised learning, unbalanced data, Algorithms, gradient boosting, nonlinear optimization, clustering, random forest, descision trees, regression
