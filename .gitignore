@@ -4,5 +4,5 @@
 # checkpoints are not included
 **.ipynb_checkpoints/
 
-## catboost folders are not included
+# catboost folders are not included
 **.catboost_info/
