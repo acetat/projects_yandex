@@ -1,8 +1,8 @@
 #datasets are not included
-**.csv
+**/*.csv
 
 # checkpoints are not included
-**.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # catboost folders are not included
-**.catboost_info/
+**/catboost_info/
