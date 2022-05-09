@@ -5,6 +5,7 @@ Presented in the form of iPython Notebooks and readme markdown files.
 
 | Project | Description | Used libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [Car price prediction](project-autos) | Trained Machine Learning models to determine the market value of the car and choosing best model| *Pandas, Matplotlib, Sklearn, Numpy, LightGBM, CatBoost* |
 | [Determination of a profitable plan for a telecom company](project-telecom) | Analysis of customer behavior and search for the optimal plan | *pandas, Matplotlib, numpy, SciPy* |
 | [Analysis of the real estate market in St. Petersburg](project-real_estate) | Determination of the market value of real estate objects and typical parameters of apartments | *pandas, matplotlib, numpy* |
 | [Prototype ML model for a metalworking enterprise](project-gold_ore) |Developing a model that predicts the recovery rate of gold from gold ore | *pandas, Matplotlib, numpy, SciPy, CatBoost, Sklearn* |
