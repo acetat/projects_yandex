@@ -1,4 +1,4 @@
-# Car price prediction
+# Age recognition with neural networks
 
 #### Task: 
 - Build a model that will determine the approximate age of a person from a photograph. At your disposal is a set of photographs of people with age indication.
