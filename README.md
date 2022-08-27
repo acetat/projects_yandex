@@ -5,6 +5,7 @@ Presented in the form of iPython Notebooks and readme markdown files.
 
 | Project | Description | Used libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [Steel temperature prediction](project-steel)| Build a model that predicts the temperature of the steel to minimize the production costs. | *pandas, Matplotlib, Sklearn, Numpy, LightGBM, CatBoost * |
 | [Age recognition with neural networks](project-age_recognition)| Build a model that will determine the approximate age of a person from a photograph. | *pandas, Matplotlib, numpy, keras* |
 | [Classifying comments](project-comments)| Train models to classify comments into positive and negative. | *pandas, Matplotlib, numpy, SciPy, LightGBM, CatBoost* |
 | [Forecasting taxi orders](project-taxi)| Train models to predict the number of taxi orders for the next hour. | *pandas, Matplotlib, numpy, SciPy, LightGBM, CatBoost* |
